@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: arene-renard
+    runtime: node
+    plan: free
+    buildCommand: "echo rien a installer"
+    startCommand: node server.js

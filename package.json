@@ -1,0 +1,8 @@
+{
+  "name": "arene-renard",
+  "version": "1.0.0",
+  "description": "Jeu de tir 3D multijoueur ARENE RENARD (aucune dependance)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
